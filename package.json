@@ -1,6 +1,6 @@
 {
   "name": "kudy-tester",
-  "version": "0.0.1-dev",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -26,7 +26,6 @@
     "kudy": "^2.0.0",
     "mocha": "^5.2.0",
     "sinon": "^7.2.3",
-    "sinon-chai": "^3.3.0",
     "sinon-express-mock": "^2.1.0",
     "ts-node": "^7.0.1",
     "tslint": "^5.12.1",
